@@ -16,13 +16,13 @@ namespace WebAPI_React_Client.Controllers
         {
             List <Employee> emplist = new List<Employee>
             {
-                 new Employee{Id=101,name="Ashane",location="Galle",salary=120000},
+                 new Employee{Id=101,name="Ashan",location="Galle",salary=120000},
 
-                new Employee{Id=102,name="Jason",location="England",salary=230000},
+                new Employee{Id=102,name="Dushan",location="England",salary=230000},
 
                 new Employee{Id=103,name="Shane",location="USA",salary=34000},
 
-                new Employee{Id=104,name="Prasad",location="Colombo",salary=45000},
+                new Employee{Id=104,name="Randy",location="Colombo",salary=45000},
 
                 new Employee{Id=105,name="Jay",location="Mumbai",salary=56000}
             };
